@@ -1,2 +1,3 @@
 # Hello-World
-a test repository used for me to learn github
+A test repository used for me to learn github
+clearly I still need practice
