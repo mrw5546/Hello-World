@@ -60,14 +60,15 @@ There are a lot of powerful, free tools online which you can easily use instead 
 - Cracked password hashdumps
   - http://siph0n.net/hashdump.php
   
-#Places to Practice 
+# Places to Practice 
 
-###Wargame Websites
+### Wargame Websites
 * [OverTheWire Wargames](http://overthewire.org/wargames/)
 * [Learn to Hack](https://hackcenter.com/sign-in
 * [hack this site](https://hackthissite.org/)
 * [hellbound hackers](https://hellboundhackers.org/)
-###Hack The Box
+
+### Hack The Box
 - Vulnerable machines set up to be hacked. Rated by difficulty and has retired machines that you can view walkthroughs of
 	-https://www.hackthebox.eu/
 	
@@ -77,10 +78,10 @@ There are a lot of powerful, free tools online which you can easily use instead 
   - https://www.vulnhub.com/entry/mr-robot-1,151/
   - https://www.vulnhub.com/entry/sickos-11,132/
   
-###Metasploitable
--purposefully vulnerable operating system that you can run as a virtual machine.
+### Metasploitable
+- purposefully vulnerable operating system that you can run as a virtual machine.
 	- [Metasploitable 2](https://metasploit.help.rapid7.com/docs/metasploitable-2)
 	- [Metasploitable 3](https://github.com/rapid7/metasploitable3)
 	
-#Tools
+# Tools
 commonly used tools used in competitions
