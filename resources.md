@@ -64,7 +64,7 @@ There are a lot of powerful, free tools online which you can easily use instead 
 
 ### Wargame Websites
 * [OverTheWire Wargames](http://overthewire.org/wargames/)
-* [Learn to Hack](https://hackcenter.com/sign-in
+* [Learn to Hack](https://hackcenter.com/sign-in)
 * [hack this site](https://hackthissite.org/)
 * [hellbound hackers](https://hellboundhackers.org/)
 
